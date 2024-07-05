@@ -1,0 +1,1 @@
+This repo contains two scripts that use different methods to create a csv leaderboard from a csv of donations. 

@@ -1,0 +1,6 @@
+donor_name,donation_amount,level
+Alice,100.00,gold
+Bob,200.00,gold
+Alice,1000.00,gold
+Charlie,300.00,silver
+Bob,100.00,gold
